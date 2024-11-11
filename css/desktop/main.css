@@ -1,0 +1,6 @@
+@import "./";
+.main{
+    width:100%;
+    height: 150vh;
+    background-color:var(--dark-blue);
+}
